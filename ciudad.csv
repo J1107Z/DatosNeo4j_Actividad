@@ -1,0 +1,21 @@
+id;nombre;clima_dominante;altitud;gentilicio
+1;Paris;Templado;35;Parisino
+2;Tokyo;Templado;40;Tokiota
+3;Roma;Mediterraneo;21;Romano
+4;Nueva York;Continental;10;Neoyorquino
+5;El Cairo;Desertico;23;Cariota
+6;Pekin;Continental;44;Pekines
+7;Sydney;Oceanico;3;Sydneysider
+8;Cusco;Frio;3399;Cusqueno
+9;Agra;Semiarido;171;Agrani
+10;Barcelona;Mediterraneo;12;Barcelones
+11;Londres;Oceanico;11;Londinense
+12;Copenhague;Oceanico;5;Danis
+13;Estambul;Templado;30;Estambulita
+14;Vancouver;Oceanico;4;Vancouverita
+15;Mumbai;Tropical;14;Mumbailite
+16;Santiago;Semi-arido;570;Santiaguino
+17;Moscu;Continental;156;Moscovita
+18;Dubai;Desertico;0;Dubaiti
+19;Amsterdam;Oceanico;2;Amsterdames
+20;Milan;Continental;122;Milanes

@@ -1,0 +1,21 @@
+id;nombre;fecha_inicio;fecha_fin;tipo;tematica;sold_out
+1;Comic Con Tokyo;2026-07-10;2026-07-13;Convencion;Anime;true
+2;Festival de Cannes;2026-05-12;2026-05-23;Festival;Cine;true
+3;Oktoberfest Munich;2026-09-19;2026-10-04;Festival;Gastronomia;false
+4;Feria del Libro;2026-04-20;2026-05-02;Feria;Lectura;false
+5;Expo Tecnologia Global;2026-11-05;2026-11-08;Exposicion;Tecnologia;true
+6;Maraton de Nueva York;2026-11-01;2026-11-01;Deporte;Futbol;false
+7;Carnaval de Rio;2026-02-13;2026-02-17;Festival;Musica;true
+8;Bienal de Arte Venecia;2026-05-10;2026-11-22;Exposicion;Arte;false
+9;GastroFest Paris;2026-06-14;2026-06-16;Festival;Gastronomia;true
+10;Summit de Sostenibilidad;2026-03-22;2026-03-24;Conferencia;Sostenibilidad;false
+11;Hackathon Mundial;2026-08-15;2026-08-17;Competencia;Programacion;true
+12;Concierto Rock Arena;2026-07-25;2026-07-25;Concierto;Musica;true
+13;Expo Arquitectura Futura;2026-10-12;2026-10-15;Exposicion;Arquitectura;false
+14;Encuentro de Astronomia;2026-08-10;2026-08-12;Congreso;Astronomia;false
+15;Torneo de Ajedrez Masters;2026-04-05;2026-04-12;Torneo;Ajedrez;true
+16;Ruta de Senderismo Alpino;2026-07-01;2026-07-04;Deporte;Senderismo;false
+17;Feria de Fotografia Digital;2026-09-08;2026-09-10;Feria;Fotografia;false
+18;Simposio de Historia Antigua;2026-06-20;2026-06-22;Congreso;Historia;false
+19;Yoga Fest Global;2026-06-21;2026-06-23;Festival;Yoga;false
+20;Design Week Milan;2026-04-14;2026-04-19;Exposicion;Diseno;true

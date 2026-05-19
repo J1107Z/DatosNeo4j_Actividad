@@ -1,0 +1,21 @@
+id;nombre;estrellas;precio_noche;tipo;pet_friendly
+1;Hotel Ritz Paris;5;850;Hotel;true
+2;Capsule Inn Tokyo;2;35;Capsula;false
+3;Roma Antique Hostel;3;55;Hostal;true
+4;The Plaza NY;5;650;Hotel;true
+5;Nile View Resort;4;120;Resort;false
+6;Forbidden City Mansion;4;140;Hotel;false
+7;Sydney Harbour Lodge;3;90;Lodge;true
+8;Inca Trail EcoCamping;2;25;Camping;true
+9;Taj Mahal Palace;5;300;Hotel;false
+10;Barcelona Beach Apartment;3;110;Apartamento;true
+11;The Savoy London;5;500;Hotel;true
+12;Nordic Green House;3;95;Hostal;false
+13;Bosphorus View Hotel;4;160;Hotel;true
+14;Rocky Mountain Lodge;4;180;Lodge;true
+15;Mumbai Central Inn;2;20;Hostal;false
+16;Andes Luxury Suites;4;130;Apartamento;false
+17;Kremlin Palace Hotel;5;240;Hotel;false
+18;Burj Al Arab;5;1500;Resort;false
+19;Amsterdam Canal House;3;115;Hotel;true
+20;Milano Fashion Rooms;4;175;Hotel;true

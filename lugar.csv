@@ -1,0 +1,21 @@
+id;nombre;tipo;calificacion_avg;popularidad_actual
+1;Torre Eiffel;Monumento;4.9;99
+2;Monte Fuji;Naturaleza;4.8;96
+3;Coliseo Romano;Historico;4.7;94
+4;Estatua de la Libertad;Monumento;4.5;90
+5;Museo del Louvre;Museo;4.9;98
+6;Gran Muralla;Historico;4.8;95
+7;Opera de Sydney;Teatro;4.6;89
+8;Machu Picchu;Arqueologico;4.9;97
+9;Taj Mahal;Historico;4.9;96
+10;Times Square;Plaza;4.4;93
+11;Piramides de Giza;Arqueologico;4.7;92
+12;Parque Central;Parque;4.6;88
+13;Sagrada Familia;Templo;4.8;94
+14;Big Ben;Monumento;4.5;87
+15;Chichen Itza;Arqueologico;4.8;91
+16;Santuario Fushimi Inari;Templo;4.9;95
+17;Canales de Amsterdam;Atraccion;4.7;86
+18;Plaza Roja;Plaza;4.5;82
+19;Gran Canon;Naturaleza;4.9;94
+20;Burj Khalifa;Rascacielos;4.8;93

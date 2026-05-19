@@ -1,0 +1,21 @@
+idUsuario;idCiudad;barrio_residencia;tiempo_vivido
+1;2;Shibuya;4
+2;11;Camden;10
+3;1;Le Marais;6
+4;2;Shinjuku;2
+5;3;Trastevere;8
+6;10;Gracia;5
+7;1;Montmartre;3
+8;20;Navigli;7
+9;4;Brooklyn;1
+10;10;Eixample;12
+11;11;Soho;15
+12;4;Queens;9
+13;12;Norrebro;4
+14;13;Kadikoy;11
+15;14;Kitsilano;5
+16;15;Bandra;8
+17;16;Providencia;6
+18;17;Arbat;14
+19;18;Marina;3
+20;6;Chaoyang;20
